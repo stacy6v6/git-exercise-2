@@ -18,3 +18,9 @@ const isPalindrome = (str) => {
     return true;
 }
 
+module.exports = {
+    square,
+    fahrenheit,
+    rectangleArea,
+    isPalindrome
+}
