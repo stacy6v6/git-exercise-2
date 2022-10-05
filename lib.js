@@ -12,8 +12,9 @@ const isPalindrome = (str) => {
             return false;
         
         }
-        
-        return true;
 
     }
+
+    return true;
 }
+
